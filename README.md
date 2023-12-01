@@ -1,16 +1,12 @@
 ### Hi there, I'm Nadia 👋
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/nadia-mitterer/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 ### About me:
 
 I'm a Computer Science student at the [University of Vienna](https://www.univie.ac.at/en/) :woman_student: and a Frontend Developer at [INFOMINDS](https://www.infominds.eu/) :woman_technologist:
 
 I'm interested in Computer Graphics, Image Processing and also Frontend App and Web Development :rocket:
+
+[![My Linkedin Profile](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/nadia-mitterer)
 
 ### Programming Languages and Tools I am familiar with:
 

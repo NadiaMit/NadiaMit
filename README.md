@@ -12,7 +12,7 @@ I'm a Computer Science student at the [University of Vienna](https://www.univie.
 
 I'm interested in Computer Graphics, Image Processing and also Frontend App and Web Development :rocket:
 
-### :computer: Programming Languages and Tools I am familiar with:
+### Programming Languages and Tools I am familiar with:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,8 +20,8 @@ I'm interested in Computer Graphics, Image Processing and also Frontend App and 
   </a>
 </p>
 
-### :fire: My Stats:
+### My Stats:
 
-[![NadiaMit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NadiaMit&show_icons=true&hide=prs&theme=midnight-purple&rank_icon=github&include_all_commits=true&custom_title=NadiaMit's%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+![NadiaMit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NadiaMit&show_icons=true&hide=prs&rank_icon=github&custom_title=NadiaMit's%20GitHub%20Stats&theme=midnight-purple&include_all_commits=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiaMit&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiaMit&layout=compact&theme=midnight-purple)

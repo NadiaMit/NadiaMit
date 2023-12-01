@@ -10,7 +10,7 @@ I'm interested in Computer Graphics, Image Processing and also Frontend App and 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,cpp,c#" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,cpp,cs" />
   </a>
 </p>
 

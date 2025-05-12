@@ -2,7 +2,7 @@
 
 ### About me: [![My Linkedin Profile](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white")](https://www.linkedin.com/in/nadia-mitterer)
 
-I'm a Computer Science student at the [University of Vienna](https://www.univie.ac.at/en/) :woman_student: and a Frontend Developer at [INFOMINDS](https://www.infominds.eu/) :woman_technologist:
+I'm a Computer Science student at the [University of Vienna](https://www.univie.ac.at/en/) :woman_student: and a Frontend Developer :woman_technologist:
 
 I'm interested in Computer Graphics, Image Processing and also Frontend App and Web Development :rocket:
 

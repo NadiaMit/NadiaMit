@@ -2,7 +2,7 @@
 
 ## About me: 
 
-I'm a Computer Science student at the [University of Vienna](https://www.univie.ac.at/en/) :woman_student: and a Frontend Developer :woman_technologist:
+I'm a Computer Science student :woman_student: at the <a href="https://www.univie.ac.at/en/">University of Vienna <img src="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.univie.ac.at&size=16" alt="University of Vienna Logo" /></a> and a Frontend Developer :woman_technologist:
 
 I'm interested in Computer Graphics, Image Processing and also Frontend App and Web Development :rocket:
 

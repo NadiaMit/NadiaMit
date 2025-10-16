@@ -1,14 +1,12 @@
-### Hi there, I'm Nadia 👋
+# Hi there, I'm Nadia 👋 <a href="https://www.linkedin.com/in/nadia-mitterer"><img src="https://skillicons.dev/icons?i=linkedin" alt="NadiaMit's Linkedin Profile" /></a>
 
-### About me: [![My Linkedin Profile](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white")](https://www.linkedin.com/in/nadia-mitterer)
----
+## About me: 
 
 I'm a Computer Science student at the [University of Vienna](https://www.univie.ac.at/en/) :woman_student: and a Frontend Developer :woman_technologist:
 
 I'm interested in Computer Graphics, Image Processing and also Frontend App and Web Development :rocket:
 
-### Programming Languages and Tools I am familiar with:
----
+## Programming Languages and Tools I am familiar with:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -16,8 +14,7 @@ I'm interested in Computer Graphics, Image Processing and also Frontend App and 
   </a>
 </p>
 
-### My GitHub Stats:
----
+## My GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadiaMit&layout=compact&theme=midnight-purple" alt="NadiaMit's top languages" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NadiaMit&show_icons=true&hide=prs&rank_icon=github&custom_title=NadiaMit's%20GitHub%20Stats&theme=midnight-purple&include_all_commits=false" alt="NadiaMit's GitHub Stats" /></p>

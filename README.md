@@ -8,9 +8,9 @@ I'm interested in Computer Graphics, Image Processing and also Frontend App and 
 
 ### Programming Languages and Tools I am familiar with:
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,cpp,cs,github,git" />
   </a>
 </p>
 
